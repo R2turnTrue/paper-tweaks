@@ -1,8 +1,0 @@
-name: ${pluginName}
-version: ${version}
-main: xyz.r2turntrue.papertweaks.plugin.PaperTweaksPlugin
-api-version: 1.17
-libraries:
-  - org.jetbrains.kotlin:kotlin-stdlib:1.5.30
-  - org.jetbrains.kotlin:kotlin-reflect:1.5.30
-  - net.projecttl:InventoryGUI-api:4.1.3
