@@ -5,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin
 /**
  * @author R2turnTrue
  */
-class SamplePlugin : JavaPlugin() {
+class PaperTweaksPlugin : JavaPlugin() {
 
 
 
